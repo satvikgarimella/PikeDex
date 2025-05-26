@@ -52,6 +52,19 @@ After downloading:
 1. Extract the `pokedex_dataset_ready` directory to the root of the project
 2. Place `pokedex_model.h5` in the root directory of the project
 
+### Verify Setup
+
+Run the setup verification script to ensure everything is properly installed:
+```bash
+python test_setup.py
+```
+
+This script will check:
+- Python version compatibility
+- Required files presence
+- Python dependencies
+- Node.js dependencies
+
 ### Running the Application
 
 1. Start the backend:
@@ -74,6 +87,7 @@ The application will be available at http://localhost:3000
 - `frontend/`: Next.js frontend application
 - `pokedex_dataset_ready/`: Dataset for training (download from Google Drive)
 - `pokedex_model.h5`: Trained model file (download from Google Drive)
+- `test_setup.py`: Setup verification script
 
 ## Contributing
 
