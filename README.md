@@ -44,15 +44,13 @@ npm install
 
 ### Download Required Files
 
-The following files are not included in the repository due to size limitations:
+The following files are not included in the repository due to size limitations. Download them from our Google Drive:
 
-1. Dataset:
-   - Download the `pokedex_dataset_ready` directory from [link to be added]
-   - Place it in the root directory of the project
+[Download Required Files](https://drive.google.com/drive/folders/1tjhaL-DLFeWEUHdcQwkCIAvSkPGqks5F?usp=sharing)
 
-2. Model:
-   - Download `pokedex_model.h5` from [link to be added]
-   - Place it in the root directory of the project
+After downloading:
+1. Extract the `pokedex_dataset_ready` directory to the root of the project
+2. Place `pokedex_model.h5` in the root directory of the project
 
 ### Running the Application
 
@@ -74,8 +72,8 @@ The application will be available at http://localhost:3000
 
 - `backend/`: Python backend server
 - `frontend/`: Next.js frontend application
-- `pokedex_dataset_ready/`: Dataset for training (not included in repo)
-- `pokedex_model.h5`: Trained model file (not included in repo)
+- `pokedex_dataset_ready/`: Dataset for training (download from Google Drive)
+- `pokedex_model.h5`: Trained model file (download from Google Drive)
 
 ## Contributing
 
