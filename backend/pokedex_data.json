@@ -1,0 +1,1811 @@
+{
+  "Bulbasaur": {
+    "type": "Grass/Poison",
+    "evolves_to": "Ivysaur",
+    "desc": "A strange seed was planted on its back at birth. The plant sprouts and grows with this POK\u00e9MON.",
+    "hp": 45,
+    "attacks": [
+      "Razor Wind",
+      "Swords Dance",
+      "Cut",
+      "Bind"
+    ]
+  },
+  "Ivysaur": {
+    "type": "Grass/Poison",
+    "evolves_to": "Venusaur",
+    "desc": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+    "hp": 60,
+    "attacks": [
+      "Swords Dance",
+      "Cut",
+      "Bind",
+      "Vine Whip"
+    ]
+  },
+  "Venusaur": {
+    "type": "Grass/Poison",
+    "evolves_to": "None",
+    "desc": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+    "hp": 80,
+    "attacks": [
+      "Swords Dance",
+      "Cut",
+      "Bind",
+      "Vine Whip"
+    ]
+  },
+  "Charmander": {
+    "type": "Fire",
+    "evolves_to": "Charmeleon",
+    "desc": "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail.",
+    "hp": 39,
+    "attacks": [
+      "Mega Punch",
+      "Fire Punch",
+      "Thunder Punch",
+      "Scratch"
+    ]
+  },
+  "Charmeleon": {
+    "type": "Fire",
+    "evolves_to": "Charizard",
+    "desc": "When it swings its burning tail, it elevates the temperature to unbearably high levels.",
+    "hp": 58,
+    "attacks": [
+      "Mega Punch",
+      "Fire Punch",
+      "Thunder Punch",
+      "Scratch"
+    ]
+  },
+  "Charizard": {
+    "type": "Fire/Flying",
+    "evolves_to": "None",
+    "desc": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.",
+    "hp": 78,
+    "attacks": [
+      "Mega Punch",
+      "Fire Punch",
+      "Thunder Punch",
+      "Scratch"
+    ]
+  },
+  "Squirtle": {
+    "type": "Water",
+    "evolves_to": "Wartortle",
+    "desc": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",
+    "hp": 44,
+    "attacks": [
+      "Mega Punch",
+      "Ice Punch",
+      "Mega Kick",
+      "Headbutt"
+    ]
+  },
+  "Wartortle": {
+    "type": "Water",
+    "evolves_to": "Blastoise",
+    "desc": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",
+    "hp": 59,
+    "attacks": [
+      "Mega Punch",
+      "Ice Punch",
+      "Mega Kick",
+      "Headbutt"
+    ]
+  },
+  "Blastoise": {
+    "type": "Water",
+    "evolves_to": "None",
+    "desc": "A brutal POK\u00e9MON with pressurized water jets on its shell. They are used for high speed tackles.",
+    "hp": 79,
+    "attacks": [
+      "Mega Punch",
+      "Ice Punch",
+      "Mega Kick",
+      "Headbutt"
+    ]
+  },
+  "Caterpie": {
+    "type": "Bug",
+    "evolves_to": "Metapod",
+    "desc": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
+    "hp": 45,
+    "attacks": [
+      "Tackle",
+      "String Shot",
+      "Snore",
+      "Bug Bite"
+    ]
+  },
+  "Metapod": {
+    "type": "Bug",
+    "evolves_to": "Butterfree",
+    "desc": "This POK\u00e9MON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
+    "hp": 50,
+    "attacks": [
+      "String Shot",
+      "Harden",
+      "Iron Defense",
+      "Bug Bite"
+    ]
+  },
+  "Butterfree": {
+    "type": "Bug/Flying",
+    "evolves_to": "None",
+    "desc": "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
+    "hp": 60,
+    "attacks": [
+      "Razor Wind",
+      "Gust",
+      "Whirlwind",
+      "Headbutt"
+    ]
+  },
+  "Weedle": {
+    "type": "Bug/Poison",
+    "evolves_to": "Kakuna",
+    "desc": "Often found in forests, eating leaves. It has a sharp venomous stinger on its head.",
+    "hp": 40,
+    "attacks": [
+      "Poison Sting",
+      "String Shot",
+      "Bug Bite",
+      "Electroweb"
+    ]
+  },
+  "Kakuna": {
+    "type": "Bug/Poison",
+    "evolves_to": "Beedrill",
+    "desc": "Almost incapable of moving, this POK\u00e9MON can only harden its shell to protect itself from predators.",
+    "hp": 45,
+    "attacks": [
+      "String Shot",
+      "Harden",
+      "Iron Defense",
+      "Bug Bite"
+    ]
+  },
+  "Beedrill": {
+    "type": "Bug/Poison",
+    "evolves_to": "None",
+    "desc": "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
+    "hp": 65,
+    "attacks": [
+      "Swords Dance",
+      "Cut",
+      "Headbutt",
+      "Fury Attack"
+    ]
+  },
+  "Pidgey": {
+    "type": "Normal/Flying",
+    "evolves_to": "Pidgeotto",
+    "desc": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
+    "hp": 40,
+    "attacks": [
+      "Razor Wind",
+      "Gust",
+      "Wing Attack",
+      "Whirlwind"
+    ]
+  },
+  "Pidgeotto": {
+    "type": "Normal/Flying",
+    "evolves_to": "Pidgeot",
+    "desc": "Very protective of its sprawling territorial area, this POK\u00e9MON will fiercely peck at any intruder.",
+    "hp": 63,
+    "attacks": [
+      "Razor Wind",
+      "Gust",
+      "Wing Attack",
+      "Whirlwind"
+    ]
+  },
+  "Pidgeot": {
+    "type": "Normal/Flying",
+    "evolves_to": "None",
+    "desc": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as MAGIKARP.",
+    "hp": 83,
+    "attacks": [
+      "Razor Wind",
+      "Gust",
+      "Wing Attack",
+      "Whirlwind"
+    ]
+  },
+  "Rattata": {
+    "type": "Normal",
+    "evolves_to": "Raticate",
+    "desc": "Bites anything when it attacks. Small and very quick, it is a common sight in many places.",
+    "hp": 30,
+    "attacks": [
+      "Cut",
+      "Headbutt",
+      "Tackle",
+      "Body Slam"
+    ]
+  },
+  "Raticate": {
+    "type": "Normal",
+    "evolves_to": "None",
+    "desc": "It uses its whis\u00ad kers to maintain its balance. It apparently slows down if they are cut off.",
+    "hp": 55,
+    "attacks": [
+      "Swords Dance",
+      "Cut",
+      "Headbutt",
+      "Tackle"
+    ]
+  },
+  "Spearow": {
+    "type": "Normal/Flying",
+    "evolves_to": "Fearow",
+    "desc": "It flaps its small wings busily to fly. Using its beak, it searches in grass for prey.",
+    "hp": 40,
+    "attacks": [
+      "Razor Wind",
+      "Wing Attack",
+      "Whirlwind",
+      "Fly"
+    ]
+  },
+  "Fearow": {
+    "type": "Normal/Flying",
+    "evolves_to": "None",
+    "desc": "With its huge and magnificent wings, it can keep aloft without ever having to land for rest.",
+    "hp": 65,
+    "attacks": [
+      "Razor Wind",
+      "Wing Attack",
+      "Whirlwind",
+      "Fly"
+    ]
+  },
+  "Ekans": {
+    "type": "Poison",
+    "evolves_to": "Arbok",
+    "desc": "Moves silently and stealthily. Eats the eggs of birds, such as PIDGEY and SPEAROW, whole.",
+    "hp": 35,
+    "attacks": [
+      "Bind",
+      "Slam",
+      "Headbutt",
+      "Body Slam"
+    ]
+  },
+  "Arbok": {
+    "type": "Poison",
+    "evolves_to": "None",
+    "desc": "It is rumored that the ferocious warning markings on its belly differ from area to area.",
+    "hp": 60,
+    "attacks": [
+      "Bind",
+      "Slam",
+      "Headbutt",
+      "Body Slam"
+    ]
+  },
+  "Pikachu": {
+    "type": "Electric",
+    "evolves_to": "Raichu",
+    "desc": "When several of these POK\u00e9MON gather, their electricity could build and cause lightning storms.",
+    "hp": 35,
+    "attacks": [
+      "Mega Punch",
+      "Pay Day",
+      "Thunder Punch",
+      "Slam"
+    ]
+  },
+  "Raichu": {
+    "type": "Electric",
+    "evolves_to": "None",
+    "desc": "Its long tail serves as a ground to protect itself from its own high-voltage power.",
+    "hp": 60,
+    "attacks": [
+      "Mega Punch",
+      "Pay Day",
+      "Thunder Punch",
+      "Slam"
+    ]
+  },
+  "Sandshrew": {
+    "type": "Ground",
+    "evolves_to": "Sandslash",
+    "desc": "Burrows deep underground in arid locations far from water. It only emerges to hunt for food.",
+    "hp": 50,
+    "attacks": [
+      "Scratch",
+      "Swords Dance",
+      "Cut",
+      "Sand Attack"
+    ]
+  },
+  "Sandslash": {
+    "type": "Ground",
+    "evolves_to": "None",
+    "desc": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
+    "hp": 75,
+    "attacks": [
+      "Scratch",
+      "Swords Dance",
+      "Cut",
+      "Sand Attack"
+    ]
+  },
+  "Nidoran-f": {
+    "type": "Poison",
+    "evolves_to": "Nidorina",
+    "desc": "Although small, its venomous barbs render this POK\u00e9MON dangerous. The female has smaller horns.",
+    "hp": 55,
+    "attacks": [
+      "Scratch",
+      "Cut",
+      "Double Kick",
+      "Headbutt"
+    ]
+  },
+  "Nidorina": {
+    "type": "Poison",
+    "evolves_to": "Nidoqueen",
+    "desc": "The female's horn develops slowly. Prefers physical attacks such as clawing and biting.",
+    "hp": 70,
+    "attacks": [
+      "Scratch",
+      "Cut",
+      "Double Kick",
+      "Headbutt"
+    ]
+  },
+  "Nidoqueen": {
+    "type": "Poison/Ground",
+    "evolves_to": "None",
+    "desc": "Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves.",
+    "hp": 90,
+    "attacks": [
+      "Mega Punch",
+      "Pay Day",
+      "Fire Punch",
+      "Ice Punch"
+    ]
+  },
+  "Nidoran-m": {
+    "type": "Poison",
+    "evolves_to": "Nidorino",
+    "desc": "Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom.",
+    "hp": 46,
+    "attacks": [
+      "Cut",
+      "Double Kick",
+      "Headbutt",
+      "Horn Attack"
+    ]
+  },
+  "Nidorino": {
+    "type": "Poison",
+    "evolves_to": "Nidoking",
+    "desc": "An aggressive POK\u00e9MON that is quick to attack. The horn on its head secretes a powerful venom.",
+    "hp": 61,
+    "attacks": [
+      "Cut",
+      "Double Kick",
+      "Headbutt",
+      "Horn Attack"
+    ]
+  },
+  "Nidoking": {
+    "type": "Poison/Ground",
+    "evolves_to": "None",
+    "desc": "It uses its powerful tail in battle to smash, constrict, then break the prey's bones.",
+    "hp": 81,
+    "attacks": [
+      "Mega Punch",
+      "Pay Day",
+      "Fire Punch",
+      "Ice Punch"
+    ]
+  },
+  "Clefairy": {
+    "type": "Fairy",
+    "evolves_to": "Clefable",
+    "desc": "Its magical and cute appeal has many admirers. It is rare and found only in certain areas.",
+    "hp": 70,
+    "attacks": [
+      "Pound",
+      "Double Slap",
+      "Mega Punch",
+      "Fire Punch"
+    ]
+  },
+  "Clefable": {
+    "type": "Fairy",
+    "evolves_to": "None",
+    "desc": "A timid fairy POK\u00e9MON that is rarely seen. It will run and hide the moment it senses people.",
+    "hp": 95,
+    "attacks": [
+      "Pound",
+      "Double Slap",
+      "Mega Punch",
+      "Fire Punch"
+    ]
+  },
+  "Vulpix": {
+    "type": "Fire",
+    "evolves_to": "Ninetales",
+    "desc": "At the time of birth, it has just one tail. The tail splits from its tip as it grows older.",
+    "hp": 38,
+    "attacks": [
+      "Headbutt",
+      "Tackle",
+      "Body Slam",
+      "Take Down"
+    ]
+  },
+  "Ninetales": {
+    "type": "Fire",
+    "evolves_to": "None",
+    "desc": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse.",
+    "hp": 73,
+    "attacks": [
+      "Headbutt",
+      "Tackle",
+      "Body Slam",
+      "Take Down"
+    ]
+  },
+  "Jigglypuff": {
+    "type": "Normal/Fairy",
+    "evolves_to": "Wigglytuff",
+    "desc": "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
+    "hp": 115,
+    "attacks": [
+      "Pound",
+      "Double Slap",
+      "Mega Punch",
+      "Fire Punch"
+    ]
+  },
+  "Wigglytuff": {
+    "type": "Normal/Fairy",
+    "evolves_to": "None",
+    "desc": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",
+    "hp": 140,
+    "attacks": [
+      "Pound",
+      "Double Slap",
+      "Mega Punch",
+      "Fire Punch"
+    ]
+  },
+  "Zubat": {
+    "type": "Poison/Flying",
+    "evolves_to": "Golbat",
+    "desc": "Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets.",
+    "hp": 40,
+    "attacks": [
+      "Razor Wind",
+      "Gust",
+      "Wing Attack",
+      "Whirlwind"
+    ]
+  },
+  "Golbat": {
+    "type": "Poison/Flying",
+    "evolves_to": "Crobat",
+    "desc": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",
+    "hp": 75,
+    "attacks": [
+      "Razor Wind",
+      "Gust",
+      "Wing Attack",
+      "Whirlwind"
+    ]
+  },
+  "Oddish": {
+    "type": "Grass/Poison",
+    "evolves_to": "Gloom",
+    "desc": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.",
+    "hp": 45,
+    "attacks": [
+      "Swords Dance",
+      "Cut",
+      "Headbutt",
+      "Take Down"
+    ]
+  },
+  "Gloom": {
+    "type": "Grass/Poison",
+    "evolves_to": "Vileplume",
+    "desc": "The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey.",
+    "hp": 60,
+    "attacks": [
+      "Swords Dance",
+      "Cut",
+      "Headbutt",
+      "Take Down"
+    ]
+  },
+  "Vileplume": {
+    "type": "Grass/Poison",
+    "evolves_to": "None",
+    "desc": "It has the world\u2019s largest petals. With every step, the petals shake out heavy clouds of toxic pollen.",
+    "hp": 75,
+    "attacks": [
+      "Swords Dance",
+      "Cut",
+      "Headbutt",
+      "Body Slam"
+    ]
+  },
+  "Paras": {
+    "type": "Bug/Grass",
+    "evolves_to": "Parasect",
+    "desc": "Burrows to suck tree roots. The mushrooms on its back grow by draw\u00ad ing nutrients from the bug host.",
+    "hp": 35,
+    "attacks": [
+      "Scratch",
+      "Swords Dance",
+      "Cut",
+      "Headbutt"
+    ]
+  },
+  "Parasect": {
+    "type": "Bug/Grass",
+    "evolves_to": "None",
+    "desc": "A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places.",
+    "hp": 60,
+    "attacks": [
+      "Scratch",
+      "Swords Dance",
+      "Cut",
+      "Headbutt"
+    ]
+  },
+  "Venonat": {
+    "type": "Bug/Poison",
+    "evolves_to": "Venomoth",
+    "desc": "Lives in the shadows of tall trees where it eats insects. It is attracted by light at night.",
+    "hp": 60,
+    "attacks": [
+      "Headbutt",
+      "Tackle",
+      "Take Down",
+      "Double Edge"
+    ]
+  },
+  "Venomoth": {
+    "type": "Bug/Poison",
+    "evolves_to": "None",
+    "desc": "The dustlike scales covering its wings are color-coded to indicate the kinds of poison it has.",
+    "hp": 70,
+    "attacks": [
+      "Razor Wind",
+      "Gust",
+      "Whirlwind",
+      "Headbutt"
+    ]
+  },
+  "Diglett": {
+    "type": "Ground",
+    "evolves_to": "Dugtrio",
+    "desc": "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground.",
+    "hp": 10,
+    "attacks": [
+      "Scratch",
+      "Swords Dance",
+      "Cut",
+      "Sand Attack"
+    ]
+  },
+  "Dugtrio": {
+    "type": "Ground",
+    "evolves_to": "None",
+    "desc": "A team of DIGLETT triplets. It triggers huge earthquakes by burrowing 60 miles underground.",
+    "hp": 35,
+    "attacks": [
+      "Scratch",
+      "Swords Dance",
+      "Cut",
+      "Sand Attack"
+    ]
+  },
+  "Meowth": {
+    "type": "Normal",
+    "evolves_to": "Persian",
+    "desc": "It washes its face regularly to keep the coin on its forehead spotless. It doesn\u2019t get along with Galarian Meowth.",
+    "hp": 40,
+    "attacks": [
+      "Pay Day",
+      "Scratch",
+      "Cut",
+      "Headbutt"
+    ]
+  },
+  "Persian": {
+    "type": "Normal",
+    "evolves_to": "None",
+    "desc": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
+    "hp": 65,
+    "attacks": [
+      "Pay Day",
+      "Scratch",
+      "Cut",
+      "Headbutt"
+    ]
+  },
+  "Psyduck": {
+    "type": "Water",
+    "evolves_to": "Golduck",
+    "desc": "While lulling its enemies with its vacant look, this wily POK\u00e9MON will use psychokinetic powers.",
+    "hp": 50,
+    "attacks": [
+      "Mega Punch",
+      "Pay Day",
+      "Ice Punch",
+      "Scratch"
+    ]
+  },
+  "Golduck": {
+    "type": "Water",
+    "evolves_to": "None",
+    "desc": "Often seen swim\u00ad ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
+    "hp": 80,
+    "attacks": [
+      "Mega Punch",
+      "Pay Day",
+      "Ice Punch",
+      "Scratch"
+    ]
+  },
+  "Mankey": {
+    "type": "Fighting",
+    "evolves_to": "Primeape",
+    "desc": "Extremely quick to anger. It could be docile one moment then thrashing away the next instant.",
+    "hp": 40,
+    "attacks": [
+      "Karate Chop",
+      "Mega Punch",
+      "Pay Day",
+      "Fire Punch"
+    ]
+  },
+  "Primeape": {
+    "type": "Fighting",
+    "evolves_to": "Annihilape",
+    "desc": "Always furious and tenacious to boot. It will not abandon chasing its quarry until it is caught.",
+    "hp": 65,
+    "attacks": [
+      "Karate Chop",
+      "Mega Punch",
+      "Pay Day",
+      "Fire Punch"
+    ]
+  },
+  "Growlithe": {
+    "type": "Fire",
+    "evolves_to": "Arcanine",
+    "desc": "Very protective of its territory. It will bark and bite to repel intruders from its space.",
+    "hp": 55,
+    "attacks": [
+      "Double Kick",
+      "Headbutt",
+      "Body Slam",
+      "Take Down"
+    ]
+  },
+  "Arcanine": {
+    "type": "Fire",
+    "evolves_to": "None",
+    "desc": "A POK\u00e9MON that has been admired since the past for its beauty. It runs agilely as if on wings.",
+    "hp": 90,
+    "attacks": [
+      "Headbutt",
+      "Body Slam",
+      "Take Down",
+      "Double Edge"
+    ]
+  },
+  "Poliwag": {
+    "type": "Water",
+    "evolves_to": "Poliwhirl",
+    "desc": "Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand.",
+    "hp": 40,
+    "attacks": [
+      "Pound",
+      "Double Slap",
+      "Headbutt",
+      "Body Slam"
+    ]
+  },
+  "Poliwhirl": {
+    "type": "Water",
+    "evolves_to": "Poliwrath",
+    "desc": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy.",
+    "hp": 65,
+    "attacks": [
+      "Pound",
+      "Double Slap",
+      "Mega Punch",
+      "Ice Punch"
+    ]
+  },
+  "Poliwrath": {
+    "type": "Water/Fighting",
+    "evolves_to": "None",
+    "desc": "An adept swimmer at both the front crawl and breast stroke. Easily overtakes the best human swimmers.",
+    "hp": 90,
+    "attacks": [
+      "Pound",
+      "Double Slap",
+      "Mega Punch",
+      "Ice Punch"
+    ]
+  },
+  "Abra": {
+    "type": "Psychic",
+    "evolves_to": "Kadabra",
+    "desc": "Using its ability to read minds, it will identify impending danger and TELEPORT to safety.",
+    "hp": 25,
+    "attacks": [
+      "Mega Punch",
+      "Fire Punch",
+      "Ice Punch",
+      "Thunder Punch"
+    ]
+  },
+  "Kadabra": {
+    "type": "Psychic",
+    "evolves_to": "Alakazam",
+    "desc": "It emits special alpha waves from its body that induce headaches just by being close by.",
+    "hp": 40,
+    "attacks": [
+      "Mega Punch",
+      "Fire Punch",
+      "Ice Punch",
+      "Thunder Punch"
+    ]
+  },
+  "Alakazam": {
+    "type": "Psychic",
+    "evolves_to": "None",
+    "desc": "Its brain can out\u00ad perform a super\u00ad computer. Its intelligence quotient is said to be 5,000.",
+    "hp": 55,
+    "attacks": [
+      "Mega Punch",
+      "Fire Punch",
+      "Ice Punch",
+      "Thunder Punch"
+    ]
+  },
+  "Machop": {
+    "type": "Fighting",
+    "evolves_to": "Machoke",
+    "desc": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
+    "hp": 70,
+    "attacks": [
+      "Karate Chop",
+      "Mega Punch",
+      "Fire Punch",
+      "Ice Punch"
+    ]
+  },
+  "Machoke": {
+    "type": "Fighting",
+    "evolves_to": "Machamp",
+    "desc": "Its muscular body is so powerful, it must wear a power save belt to be able to regulate its motions.",
+    "hp": 80,
+    "attacks": [
+      "Karate Chop",
+      "Mega Punch",
+      "Fire Punch",
+      "Ice Punch"
+    ]
+  },
+  "Machamp": {
+    "type": "Fighting",
+    "evolves_to": "None",
+    "desc": "Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon.",
+    "hp": 90,
+    "attacks": [
+      "Karate Chop",
+      "Mega Punch",
+      "Fire Punch",
+      "Ice Punch"
+    ]
+  },
+  "Bellsprout": {
+    "type": "Grass/Poison",
+    "evolves_to": "Weepinbell",
+    "desc": "A carnivorous POK\u00e9MON that traps and eats bugs. It uses its root feet to soak up needed moisture.",
+    "hp": 50,
+    "attacks": [
+      "Swords Dance",
+      "Cut",
+      "Bind",
+      "Slam"
+    ]
+  },
+  "Weepinbell": {
+    "type": "Grass/Poison",
+    "evolves_to": "Victreebel",
+    "desc": "It spits out POISONPOWDER to immobilize the enemy and then finishes it with a spray of ACID.",
+    "hp": 65,
+    "attacks": [
+      "Swords Dance",
+      "Cut",
+      "Bind",
+      "Slam"
+    ]
+  },
+  "Victreebel": {
+    "type": "Grass/Poison",
+    "evolves_to": "None",
+    "desc": "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
+    "hp": 80,
+    "attacks": [
+      "Swords Dance",
+      "Cut",
+      "Bind",
+      "Slam"
+    ]
+  },
+  "Tentacool": {
+    "type": "Water/Poison",
+    "evolves_to": "Tentacruel",
+    "desc": "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.",
+    "hp": 40,
+    "attacks": [
+      "Swords Dance",
+      "Cut",
+      "Bind",
+      "Headbutt"
+    ]
+  },
+  "Tentacruel": {
+    "type": "Water/Poison",
+    "evolves_to": "None",
+    "desc": "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.",
+    "hp": 80,
+    "attacks": [
+      "Swords Dance",
+      "Cut",
+      "Bind",
+      "Headbutt"
+    ]
+  },
+  "Geodude": {
+    "type": "Rock/Ground",
+    "evolves_to": "Graveler",
+    "desc": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
+    "hp": 40,
+    "attacks": [
+      "Mega Punch",
+      "Fire Punch",
+      "Thunder Punch",
+      "Sand Attack"
+    ]
+  },
+  "Graveler": {
+    "type": "Rock/Ground",
+    "evolves_to": "Golem",
+    "desc": "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.",
+    "hp": 55,
+    "attacks": [
+      "Mega Punch",
+      "Fire Punch",
+      "Thunder Punch",
+      "Sand Attack"
+    ]
+  },
+  "Golem": {
+    "type": "Rock/Ground",
+    "evolves_to": "None",
+    "desc": "Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage.",
+    "hp": 80,
+    "attacks": [
+      "Mega Punch",
+      "Fire Punch",
+      "Thunder Punch",
+      "Mega Kick"
+    ]
+  },
+  "Ponyta": {
+    "type": "Fire",
+    "evolves_to": "Rapidash",
+    "desc": "Its hooves are 10 times harder than diamonds. It can trample anything completely flat in little time.",
+    "hp": 50,
+    "attacks": [
+      "Stomp",
+      "Double Kick",
+      "Headbutt",
+      "Horn Drill"
+    ]
+  },
+  "Rapidash": {
+    "type": "Fire",
+    "evolves_to": "None",
+    "desc": "Very competitive, this POK\u00e9MON will chase anything that moves fast in the hopes of racing it.",
+    "hp": 65,
+    "attacks": [
+      "Pay Day",
+      "Swords Dance",
+      "Stomp",
+      "Double Kick"
+    ]
+  },
+  "Slowpoke": {
+    "type": "Water/Psychic",
+    "evolves_to": "Slowbro",
+    "desc": "Incredibly slow and dopey. It takes 5 seconds for it to feel pain when under attack.",
+    "hp": 90,
+    "attacks": [
+      "Pay Day",
+      "Stomp",
+      "Headbutt",
+      "Tackle"
+    ]
+  },
+  "Slowbro": {
+    "type": "Water/Psychic",
+    "evolves_to": "None",
+    "desc": "The SHELLDER that is latched onto SLOWPOKE's tail is said to feed on the host's left over scraps.",
+    "hp": 95,
+    "attacks": [
+      "Mega Punch",
+      "Pay Day",
+      "Ice Punch",
+      "Stomp"
+    ]
+  },
+  "Magnemite": {
+    "type": "Electric/Steel",
+    "evolves_to": "Magneton",
+    "desc": "Uses anti-gravity to stay suspended. Appears without warning and uses THUNDER WAVE and similar moves.",
+    "hp": 25,
+    "attacks": [
+      "Headbutt",
+      "Tackle",
+      "Take Down",
+      "Double Edge"
+    ]
+  },
+  "Magneton": {
+    "type": "Electric/Steel",
+    "evolves_to": "Magnezone",
+    "desc": "Formed by several MAGNEMITEs linked together. They frequently appear when sunspots flare up.",
+    "hp": 50,
+    "attacks": [
+      "Headbutt",
+      "Tackle",
+      "Take Down",
+      "Double Edge"
+    ]
+  },
+  "Farfetchd": {
+    "type": "Normal/Flying",
+    "evolves_to": "Sirfetchd",
+    "desc": "The sprig of green onions it holds is its weapon. It is used much like a metal sword.",
+    "hp": 52,
+    "attacks": [
+      "Razor Wind",
+      "Swords Dance",
+      "Cut",
+      "Gust"
+    ]
+  },
+  "Doduo": {
+    "type": "Normal/Flying",
+    "evolves_to": "Dodrio",
+    "desc": "A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints.",
+    "hp": 35,
+    "attacks": [
+      "Swords Dance",
+      "Wing Attack",
+      "Whirlwind",
+      "Fly"
+    ]
+  },
+  "Dodrio": {
+    "type": "Normal/Flying",
+    "evolves_to": "None",
+    "desc": "Uses its three brains to execute complex plans. While two heads sleep, one head stays awake.",
+    "hp": 60,
+    "attacks": [
+      "Swords Dance",
+      "Wing Attack",
+      "Whirlwind",
+      "Fly"
+    ]
+  },
+  "Seel": {
+    "type": "Water",
+    "evolves_to": "Dewgong",
+    "desc": "The protruding horn on its head is very hard. It is used for bashing through thick ice.",
+    "hp": 65,
+    "attacks": [
+      "Pay Day",
+      "Slam",
+      "Headbutt",
+      "Horn Drill"
+    ]
+  },
+  "Dewgong": {
+    "type": "Water/Ice",
+    "evolves_to": "None",
+    "desc": "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters.",
+    "hp": 90,
+    "attacks": [
+      "Pay Day",
+      "Headbutt",
+      "Horn Drill",
+      "Body Slam"
+    ]
+  },
+  "Grimer": {
+    "type": "Poison",
+    "evolves_to": "Muk",
+    "desc": "Appears in filthy areas. Thrives by sucking up polluted sludge that is pumped out of factories.",
+    "hp": 80,
+    "attacks": [
+      "Pound",
+      "Fire Punch",
+      "Ice Punch",
+      "Thunder Punch"
+    ]
+  },
+  "Muk": {
+    "type": "Poison",
+    "evolves_to": "None",
+    "desc": "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",
+    "hp": 105,
+    "attacks": [
+      "Pound",
+      "Fire Punch",
+      "Ice Punch",
+      "Thunder Punch"
+    ]
+  },
+  "Shellder": {
+    "type": "Water",
+    "evolves_to": "Cloyster",
+    "desc": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
+    "hp": 30,
+    "attacks": [
+      "Headbutt",
+      "Tackle",
+      "Take Down",
+      "Double Edge"
+    ]
+  },
+  "Cloyster": {
+    "type": "Water/Ice",
+    "evolves_to": "None",
+    "desc": "When attacked, it launches its horns in quick volleys. Its innards have never been seen.",
+    "hp": 50,
+    "attacks": [
+      "Headbutt",
+      "Tackle",
+      "Body Slam",
+      "Take Down"
+    ]
+  },
+  "Gastly": {
+    "type": "Ghost/Poison",
+    "evolves_to": "Haunter",
+    "desc": "Almost invisible, this gaseous POK\u00e9MON cloaks the target and puts it to sleep without notice.",
+    "hp": 30,
+    "attacks": [
+      "Fire Punch",
+      "Ice Punch",
+      "Thunder Punch",
+      "Headbutt"
+    ]
+  },
+  "Haunter": {
+    "type": "Ghost/Poison",
+    "evolves_to": "Gengar",
+    "desc": "Because of its ability to slip through block walls, it is said to be from an\u00ad other dimension.",
+    "hp": 45,
+    "attacks": [
+      "Fire Punch",
+      "Ice Punch",
+      "Thunder Punch",
+      "Headbutt"
+    ]
+  },
+  "Gengar": {
+    "type": "Ghost/Poison",
+    "evolves_to": "None",
+    "desc": "Under a full moon, this POK\u00e9MON likes to mimic the shadows of people and laugh at their fright.",
+    "hp": 60,
+    "attacks": [
+      "Mega Punch",
+      "Fire Punch",
+      "Ice Punch",
+      "Thunder Punch"
+    ]
+  },
+  "Onix": {
+    "type": "Rock/Ground",
+    "evolves_to": "Steelix",
+    "desc": "As it grows, the stone portions of its body harden to become similar to a diamond, but colored black.",
+    "hp": 35,
+    "attacks": [
+      "Bind",
+      "Slam",
+      "Headbutt",
+      "Tackle"
+    ]
+  },
+  "Drowzee": {
+    "type": "Psychic",
+    "evolves_to": "Hypno",
+    "desc": "Puts enemies to sleep then eats their dreams. Occasionally gets sick from eating bad dreams.",
+    "hp": 60,
+    "attacks": [
+      "Pound",
+      "Mega Punch",
+      "Fire Punch",
+      "Ice Punch"
+    ]
+  },
+  "Hypno": {
+    "type": "Psychic",
+    "evolves_to": "None",
+    "desc": "When it locks eyes with an enemy, it will use a mix of PSI moves such as HYPNOSIS and CONFUSION.",
+    "hp": 85,
+    "attacks": [
+      "Pound",
+      "Mega Punch",
+      "Fire Punch",
+      "Ice Punch"
+    ]
+  },
+  "Krabby": {
+    "type": "Water",
+    "evolves_to": "Kingler",
+    "desc": "Its pincers are not only powerful weapons, they are used for balance when walking sideways.",
+    "hp": 30,
+    "attacks": [
+      "Vice Grip",
+      "Guillotine",
+      "Swords Dance",
+      "Cut"
+    ]
+  },
+  "Kingler": {
+    "type": "Water",
+    "evolves_to": "None",
+    "desc": "The large pincer has 10000 hp of crushing power. However, its huge size makes it unwieldy to use.",
+    "hp": 55,
+    "attacks": [
+      "Vice Grip",
+      "Guillotine",
+      "Swords Dance",
+      "Cut"
+    ]
+  },
+  "Voltorb": {
+    "type": "Electric",
+    "evolves_to": "Electrode",
+    "desc": "Usually found in power plants. Easily mistaken for a POK\u00e9 BALL, they have zapped many people.",
+    "hp": 40,
+    "attacks": [
+      "Headbutt",
+      "Tackle",
+      "Take Down",
+      "Double Edge"
+    ]
+  },
+  "Electrode": {
+    "type": "Electric",
+    "evolves_to": "None",
+    "desc": "It stores electric energy under very high pressure. It often explodes with little or no provocation.",
+    "hp": 60,
+    "attacks": [
+      "Headbutt",
+      "Tackle",
+      "Take Down",
+      "Double Edge"
+    ]
+  },
+  "Exeggcute": {
+    "type": "Grass/Psychic",
+    "evolves_to": "Exeggutor",
+    "desc": "Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.",
+    "hp": 60,
+    "attacks": [
+      "Swords Dance",
+      "Headbutt",
+      "Take Down",
+      "Double Edge"
+    ]
+  },
+  "Exeggutor": {
+    "type": "Grass/Psychic",
+    "evolves_to": "None",
+    "desc": "Legend has it that on rare occasions, one of its heads will drop off and continue on as an EXEGGCUTE.",
+    "hp": 95,
+    "attacks": [
+      "Swords Dance",
+      "Stomp",
+      "Headbutt",
+      "Body Slam"
+    ]
+  },
+  "Cubone": {
+    "type": "Ground",
+    "evolves_to": "Marowak",
+    "desc": "Because it never removes its skull helmet, no one has ever seen this POK\u00e9MON's real face.",
+    "hp": 50,
+    "attacks": [
+      "Mega Punch",
+      "Fire Punch",
+      "Thunder Punch",
+      "Swords Dance"
+    ]
+  },
+  "Marowak": {
+    "type": "Ground",
+    "evolves_to": "None",
+    "desc": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.",
+    "hp": 60,
+    "attacks": [
+      "Mega Punch",
+      "Fire Punch",
+      "Thunder Punch",
+      "Swords Dance"
+    ]
+  },
+  "Hitmonlee": {
+    "type": "Fighting",
+    "evolves_to": "None",
+    "desc": "When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides.",
+    "hp": 50,
+    "attacks": [
+      "Mega Punch",
+      "Swords Dance",
+      "Double Kick",
+      "Mega Kick"
+    ]
+  },
+  "Hitmonchan": {
+    "type": "Fighting",
+    "evolves_to": "None",
+    "desc": "While apparently doing nothing, it fires punches in lightning fast volleys that are impossible to see.",
+    "hp": 50,
+    "attacks": [
+      "Comet Punch",
+      "Mega Punch",
+      "Fire Punch",
+      "Ice Punch"
+    ]
+  },
+  "Lickitung": {
+    "type": "Normal",
+    "evolves_to": "Lickilicky",
+    "desc": "Its tongue can be extended like a chameleon's. It leaves a tingling sensation when it licks enemies.",
+    "hp": 90,
+    "attacks": [
+      "Mega Punch",
+      "Fire Punch",
+      "Ice Punch",
+      "Thunder Punch"
+    ]
+  },
+  "Koffing": {
+    "type": "Poison",
+    "evolves_to": "Weezing",
+    "desc": "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning.",
+    "hp": 40,
+    "attacks": [
+      "Headbutt",
+      "Tackle",
+      "Body Slam",
+      "Take Down"
+    ]
+  },
+  "Weezing": {
+    "type": "Poison",
+    "evolves_to": "None",
+    "desc": "Where two kinds of poison gases meet, 2 KOFFINGs can fuse into a WEEZING over many years.",
+    "hp": 65,
+    "attacks": [
+      "Headbutt",
+      "Tackle",
+      "Body Slam",
+      "Take Down"
+    ]
+  },
+  "Rhyhorn": {
+    "type": "Ground/Rock",
+    "evolves_to": "Rhydon",
+    "desc": "A POK\u00e9MON with a one-track mind. Once it charges,  it won't stop running until it falls asleep.",
+    "hp": 80,
+    "attacks": [
+      "Swords Dance",
+      "Stomp",
+      "Sand Attack",
+      "Headbutt"
+    ]
+  },
+  "Rhydon": {
+    "type": "Ground/Rock",
+    "evolves_to": "Rhyperior",
+    "desc": "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees.",
+    "hp": 105,
+    "attacks": [
+      "Mega Punch",
+      "Pay Day",
+      "Fire Punch",
+      "Ice Punch"
+    ]
+  },
+  "Chansey": {
+    "type": "Normal",
+    "evolves_to": "Blissey",
+    "desc": "A rare and elusive POK\u00e9MON that is said to bring happiness to those who manage to get it.",
+    "hp": 250,
+    "attacks": [
+      "Pound",
+      "Double Slap",
+      "Mega Punch",
+      "Fire Punch"
+    ]
+  },
+  "Tangela": {
+    "type": "Grass",
+    "evolves_to": "Tangrowth",
+    "desc": "The whole body is swathed with wide vines that are similar to sea\u00ad weed. Its vines shake as it walks.",
+    "hp": 65,
+    "attacks": [
+      "Swords Dance",
+      "Cut",
+      "Bind",
+      "Slam"
+    ]
+  },
+  "Kangaskhan": {
+    "type": "Normal",
+    "evolves_to": "None",
+    "desc": "The infant rarely ventures out of its mother's protective pouch until it is 3 years old.",
+    "hp": 105,
+    "attacks": [
+      "Pound",
+      "Comet Punch",
+      "Mega Punch",
+      "Fire Punch"
+    ]
+  },
+  "Horsea": {
+    "type": "Water",
+    "evolves_to": "Seadra",
+    "desc": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
+    "hp": 30,
+    "attacks": [
+      "Razor Wind",
+      "Headbutt",
+      "Take Down",
+      "Double Edge"
+    ]
+  },
+  "Seadra": {
+    "type": "Water",
+    "evolves_to": "Kingdra",
+    "desc": "Capable of swim\u00ad ming backwards by rapidly flapping its wing-like pectoral fins and stout tail.",
+    "hp": 55,
+    "attacks": [
+      "Headbutt",
+      "Take Down",
+      "Double Edge",
+      "Leer"
+    ]
+  },
+  "Goldeen": {
+    "type": "Water",
+    "evolves_to": "Seaking",
+    "desc": "Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen.",
+    "hp": 45,
+    "attacks": [
+      "Swords Dance",
+      "Headbutt",
+      "Horn Attack",
+      "Fury Attack"
+    ]
+  },
+  "Seaking": {
+    "type": "Water",
+    "evolves_to": "None",
+    "desc": "In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks.",
+    "hp": 80,
+    "attacks": [
+      "Swords Dance",
+      "Headbutt",
+      "Horn Attack",
+      "Fury Attack"
+    ]
+  },
+  "Staryu": {
+    "type": "Water",
+    "evolves_to": "Starmie",
+    "desc": "If its body is torn, it can grow back if the red core remains. The core flashes at midnight.",
+    "hp": 30,
+    "attacks": [
+      "Headbutt",
+      "Tackle",
+      "Take Down",
+      "Double Edge"
+    ]
+  },
+  "Starmie": {
+    "type": "Water/Psychic",
+    "evolves_to": "None",
+    "desc": "Its central core glows with the seven colors of the rainbow. Some people value the core as a gem.",
+    "hp": 60,
+    "attacks": [
+      "Headbutt",
+      "Tackle",
+      "Take Down",
+      "Double Edge"
+    ]
+  },
+  "Mr-mime": {
+    "type": "Psychic/Fairy",
+    "evolves_to": "Mr-rime",
+    "desc": "If interrupted while it is miming, it will slap around the offender with its broad hands.",
+    "hp": 40,
+    "attacks": [
+      "Pound",
+      "Double Slap",
+      "Mega Punch",
+      "Fire Punch"
+    ]
+  },
+  "Scyther": {
+    "type": "Bug/Flying",
+    "evolves_to": "Scizor",
+    "desc": "With ninja-like agility and speed, it can create the illusion that there is more than one.",
+    "hp": 70,
+    "attacks": [
+      "Razor Wind",
+      "Swords Dance",
+      "Cut",
+      "Wing Attack"
+    ]
+  },
+  "Jynx": {
+    "type": "Ice/Psychic",
+    "evolves_to": "None",
+    "desc": "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.",
+    "hp": 65,
+    "attacks": [
+      "Pound",
+      "Double Slap",
+      "Mega Punch",
+      "Ice Punch"
+    ]
+  },
+  "Electabuzz": {
+    "type": "Electric",
+    "evolves_to": "Electivire",
+    "desc": "Normally found near power plants, they can wander away and cause major blackouts in cities.",
+    "hp": 65,
+    "attacks": [
+      "Mega Punch",
+      "Fire Punch",
+      "Ice Punch",
+      "Thunder Punch"
+    ]
+  },
+  "Magmar": {
+    "type": "Fire",
+    "evolves_to": "Magmortar",
+    "desc": "Its body always burns with an orange glow that enables it to hide perfectly among flames.",
+    "hp": 65,
+    "attacks": [
+      "Mega Punch",
+      "Fire Punch",
+      "Thunder Punch",
+      "Mega Kick"
+    ]
+  },
+  "Pinsir": {
+    "type": "Bug",
+    "evolves_to": "None",
+    "desc": "If it fails to crush the victim in its pincers, it will swing it around and toss it hard.",
+    "hp": 65,
+    "attacks": [
+      "Vice Grip",
+      "Guillotine",
+      "Swords Dance",
+      "Cut"
+    ]
+  },
+  "Tauros": {
+    "type": "Normal",
+    "evolves_to": "None",
+    "desc": "When it targets an enemy, it charges furiously while whipping its body with its long tails.",
+    "hp": 75,
+    "attacks": [
+      "Stomp",
+      "Headbutt",
+      "Horn Attack",
+      "Horn Drill"
+    ]
+  },
+  "Magikarp": {
+    "type": "Water",
+    "evolves_to": "Gyarados",
+    "desc": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
+    "hp": 20,
+    "attacks": [
+      "Tackle",
+      "Hydro Pump",
+      "Splash",
+      "Flail"
+    ]
+  },
+  "Gyarados": {
+    "type": "Water/Flying",
+    "evolves_to": "None",
+    "desc": "Once it begins to rampage, a GYARADOS will burn everything down, even in a harsh storm.",
+    "hp": 95,
+    "attacks": [
+      "Bind",
+      "Headbutt",
+      "Tackle",
+      "Body Slam"
+    ]
+  },
+  "Lapras": {
+    "type": "Water/Ice",
+    "evolves_to": "None",
+    "desc": "A POK\u00e9MON that has been over\u00ad hunted almost to extinction. It can ferry people across the water.",
+    "hp": 130,
+    "attacks": [
+      "Headbutt",
+      "Horn Drill",
+      "Body Slam",
+      "Take Down"
+    ]
+  },
+  "Ditto": {
+    "type": "Normal",
+    "evolves_to": "None",
+    "desc": "Capable of copying an enemy's genetic code to instantly transform itself into a duplicate of the enemy.",
+    "hp": 48,
+    "attacks": [
+      "Transform"
+    ]
+  },
+  "Eevee": {
+    "type": "Normal",
+    "evolves_to": "Vaporeon",
+    "desc": "Its genetic code is irregular. It may mutate if it is exposed to radiation from element STONEs.",
+    "hp": 55,
+    "attacks": [
+      "Pay Day",
+      "Double Kick",
+      "Sand Attack",
+      "Headbutt"
+    ]
+  },
+  "Vaporeon": {
+    "type": "Water",
+    "evolves_to": "None",
+    "desc": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.",
+    "hp": 130,
+    "attacks": [
+      "Pay Day",
+      "Double Kick",
+      "Sand Attack",
+      "Headbutt"
+    ]
+  },
+  "Jolteon": {
+    "type": "Electric",
+    "evolves_to": "None",
+    "desc": "It accumulates negative ions in the atmosphere to blast out 10000- volt lightning bolts.",
+    "hp": 65,
+    "attacks": [
+      "Pay Day",
+      "Double Kick",
+      "Sand Attack",
+      "Headbutt"
+    ]
+  },
+  "Flareon": {
+    "type": "Fire",
+    "evolves_to": "None",
+    "desc": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees.",
+    "hp": 65,
+    "attacks": [
+      "Pay Day",
+      "Double Kick",
+      "Sand Attack",
+      "Headbutt"
+    ]
+  },
+  "Porygon": {
+    "type": "Normal",
+    "evolves_to": "Porygon2",
+    "desc": "A POK\u00e9MON that consists entirely of programming code. Capable of moving freely in cyberspace.",
+    "hp": 65,
+    "attacks": [
+      "Headbutt",
+      "Tackle",
+      "Take Down",
+      "Double Edge"
+    ]
+  },
+  "Omanyte": {
+    "type": "Rock/Water",
+    "evolves_to": "Omastar",
+    "desc": "Although long extinct, in rare cases, it can be genetically resurrected from fossils.",
+    "hp": 35,
+    "attacks": [
+      "Bind",
+      "Slam",
+      "Sand Attack",
+      "Headbutt"
+    ]
+  },
+  "Omastar": {
+    "type": "Rock/Water",
+    "evolves_to": "None",
+    "desc": "A prehistoric POK\u00e9MON that died out when its heavy shell made it impossible to catch prey.",
+    "hp": 70,
+    "attacks": [
+      "Bind",
+      "Sand Attack",
+      "Headbutt",
+      "Horn Attack"
+    ]
+  },
+  "Kabuto": {
+    "type": "Rock/Water",
+    "evolves_to": "Kabutops",
+    "desc": "A POK\u00e9MON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
+    "hp": 30,
+    "attacks": [
+      "Scratch",
+      "Sand Attack",
+      "Headbutt",
+      "Body Slam"
+    ]
+  },
+  "Kabutops": {
+    "type": "Rock/Water",
+    "evolves_to": "None",
+    "desc": "Its sleek shape is perfect for swim\u00ad ming. It slashes prey with its claws and drains the body fluids.",
+    "hp": 60,
+    "attacks": [
+      "Scratch",
+      "Razor Wind",
+      "Swords Dance",
+      "Cut"
+    ]
+  },
+  "Aerodactyl": {
+    "type": "Rock/Flying",
+    "evolves_to": "None",
+    "desc": "A Pok\u00e9mon that roamed the skies in the dinosaur era. Its teeth are like saw blades.",
+    "hp": 80,
+    "attacks": [
+      "Razor Wind",
+      "Wing Attack",
+      "Whirlwind",
+      "Fly"
+    ]
+  },
+  "Snorlax": {
+    "type": "Normal",
+    "evolves_to": "None",
+    "desc": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",
+    "hp": 160,
+    "attacks": [
+      "Mega Punch",
+      "Pay Day",
+      "Fire Punch",
+      "Ice Punch"
+    ]
+  },
+  "Articuno": {
+    "type": "Ice/Flying",
+    "evolves_to": "None",
+    "desc": "A legendary bird POK\u00e9MON that is said to appear to doomed people who are lost in icy mountains.",
+    "hp": 90,
+    "attacks": [
+      "Razor Wind",
+      "Gust",
+      "Whirlwind",
+      "Fly"
+    ]
+  },
+  "Zapdos": {
+    "type": "Electric/Flying",
+    "evolves_to": "None",
+    "desc": "A legendary bird POK\u00e9MON that is said to appear from clouds while dropping enormous lightning bolts.",
+    "hp": 90,
+    "attacks": [
+      "Razor Wind",
+      "Whirlwind",
+      "Fly",
+      "Headbutt"
+    ]
+  },
+  "Moltres": {
+    "type": "Fire/Flying",
+    "evolves_to": "None",
+    "desc": "Known as the legendary bird of fire. Every flap of its wings creates a dazzling flash of flames.",
+    "hp": 90,
+    "attacks": [
+      "Razor Wind",
+      "Gust",
+      "Wing Attack",
+      "Whirlwind"
+    ]
+  },
+  "Dratini": {
+    "type": "Dragon",
+    "evolves_to": "Dragonair",
+    "desc": "Long considered a mythical POK\u00e9MON until recently when a small colony was found living underwater.",
+    "hp": 41,
+    "attacks": [
+      "Bind",
+      "Slam",
+      "Headbutt",
+      "Body Slam"
+    ]
+  },
+  "Dragonair": {
+    "type": "Dragon",
+    "evolves_to": "Dragonite",
+    "desc": "A mystical POK\u00e9MON that exudes a gentle aura. Has the ability to change climate conditions.",
+    "hp": 61,
+    "attacks": [
+      "Bind",
+      "Slam",
+      "Headbutt",
+      "Horn Drill"
+    ]
+  },
+  "Dragonite": {
+    "type": "Dragon/Flying",
+    "evolves_to": "None",
+    "desc": "An extremely rarely seen marine POK\u00e9MON. Its intelligence is said to match that of humans.",
+    "hp": 91,
+    "attacks": [
+      "Mega Punch",
+      "Fire Punch",
+      "Ice Punch",
+      "Thunder Punch"
+    ]
+  },
+  "Mewtwo": {
+    "type": "Psychic",
+    "evolves_to": "None",
+    "desc": "It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.",
+    "hp": 106,
+    "attacks": [
+      "Mega Punch",
+      "Pay Day",
+      "Fire Punch",
+      "Ice Punch"
+    ]
+  },
+  "Mew": {
+    "type": "Psychic",
+    "evolves_to": "None",
+    "desc": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+    "hp": 100,
+    "attacks": [
+      "Pound",
+      "Mega Punch",
+      "Pay Day",
+      "Fire Punch"
+    ]
+  }
+}
